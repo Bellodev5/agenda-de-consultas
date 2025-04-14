@@ -43,9 +43,6 @@ Além disso, utilizamos **[Autenticação e Segurança](./Autenticacao-e-Seguran
 Por fim, a aplicação de **[Middlewares](./Middlewares.md)** garante que todas as funcionalidades intermediárias, como validação de dados e tratamento de erros, sejam feitas de forma consistente e segura.
 
 --- 
-
-Agora, basta adicionar essa parte ao seu README para criar links para os arquivos de documentação dos tópicos!
----
 **Feito por: Guilherme Bello**  
 / Jovem Aprendiz – Portobello Group  
 / Técnico em Desenvolvimento de Sistemas (em formação)  
