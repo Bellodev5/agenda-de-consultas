@@ -26,7 +26,7 @@ Este projeto é uma API de agendamento de consultas desenvolvida em Node.js, que
 - *JWT (JSON Web Token)* – Sistema de autenticação para proteger rotas e garantir acesso apenas ao usuário logado  
 - *Bcrypt* – Biblioteca usada para criptografar as senhas dos usuários antes de salvar no banco  
 - *Dotenv* – Responsável por gerenciar variáveis de ambiente da aplicação (.env)  
-- *Moment.js* – Utilizada para manipulação de datas e horários nos agendamentos  
+- *Moment.js e Luxon* – Utilizadas para manipulação de datas e horários nos agendamentos -  Manipulação de datas e horas 
 - *Insomnia* – Ferramenta utilizada para testar todas as rotas da API durante o desenvolvimento  
 
 ---
