@@ -30,7 +30,22 @@ Este projeto é uma API de agendamento de consultas desenvolvida em Node.js, que
 - *Insomnia* – Ferramenta utilizada para testar todas as rotas da API durante o desenvolvimento  
 
 ---
+Claro! Aqui está a parte do caminho para o seu README:
 
+---
+
+## Conceitos Importantes
+
+Neste projeto, adotamos os princípios da **[Programação Orientada a Objetos (POO)](./POO-no-Projeto.md)** para organizar e estruturar o código. Essa abordagem garante uma maior modularidade, reutilização e escalabilidade. Confira a documentação para entender como conceitos como encapsulamento, herança e abstração são aplicados no **Agenda de Consultas**.
+
+Além disso, utilizamos **[Autenticação e Segurança](./Autenticacao-e-Seguranca.md)** para garantir que as rotas sensíveis estejam protegidas e que apenas usuários autenticados possam acessar dados privados. 
+
+Por fim, a aplicação de **[Middlewares](./Middlewares.md)** garante que todas as funcionalidades intermediárias, como validação de dados e tratamento de erros, sejam feitas de forma consistente e segura.
+
+--- 
+
+Agora, basta adicionar essa parte ao seu README para criar links para os arquivos de documentação dos tópicos!
+---
 **Feito por: Guilherme Bello**  
 / Jovem Aprendiz – Portobello Group  
 / Técnico em Desenvolvimento de Sistemas (em formação)  
