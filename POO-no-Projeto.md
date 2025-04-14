@@ -52,12 +52,6 @@ A partir desse ponto, todos os módulos usam apenas `pool.query()` para executar
 
 ---
 
-## 🧬 Herança
-
-Embora o JavaScript moderno suporte herança com `class`, o projeto utiliza uma abordagem mais funcional e modular. Porém, a ideia de **reutilizar lógica entre arquivos** está presente com os middlewares e validações reaproveitadas entre diferentes rotas.
-
----
-
 ## 🧪 Exemplo de Estrutura POO Modular
 
 ```plaintext
