@@ -32,7 +32,7 @@ export default function autenticarUsuario(req, res, next) {
 }
 ```
 
-- **Descrição**: O middleware verifica se o token foi enviado na requisição. Se não houver token ou se ele for inválido, a requisição é bloqueada com um erro 401.
+- **Descrição**: O middleware verifica se o token foi enviado na requisição. Se não houver token ou se ele for inválido, a requisição é bloqueada com um erro 401 (O erro 401 é um código de status HTTP que indica que uma solicitação de acesso a um recurso foi negada).
 - **Como Funciona**: O token JWT é enviado pelo cliente no cabeçalho da requisição. Se o token for válido, o middleware extrai o ID do usuário e o adiciona à requisição (`req.usuarioId`), permitindo que o controlador utilize essa informação.
 
 ---
