@@ -79,7 +79,7 @@ JWT_SECRET=sua_chave_super_secreta
 
 ---
 
-## 🚫 Boas Práticas Adicionais
+## ✅ Boas Práticas Adicionais
 
 - Validação dos dados de entrada (evita SQL Injection)
 - Retorno de mensagens genéricas de erro para não expor a lógica interna
